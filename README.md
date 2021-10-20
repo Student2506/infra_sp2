@@ -26,5 +26,5 @@
 *docker-compose exec web python manage.py loaddata fixtures.json*  
 
 ## Для подключения к базе данных
-требуется скопировать и отредактировать файл .env
+требуется скопировать и отредактировать файл .env  
 *cp .env.template .env*
